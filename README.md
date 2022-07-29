@@ -1,3 +1,17 @@
+# Staybooking: An online stay rental application
+
+A multi-faceted closed-loop web application that supports stay upload, delete, search and reserve functionality.
+
+• Designed and built a single page web application using React. 
+
+• Built backend services using Spring Boot and MySQL in AWS RDS. 
+
+• Utilized Google Cloud Storage to store media files of uploaded stays. 
+
+• Used Elasticsearch to support stays’ geographic location search based on user’s selected locations and range. 
+
+• Implemented token-based server side user authentication with Spring Security framework.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
